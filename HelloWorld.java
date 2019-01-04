@@ -1,7 +1,7 @@
 class HelloWirld
 {
-main()
+public static void main (String [] args)
 {
-Sysout("Hello Eorld.!!");
+System.out.println("Hello Eorld.!!");
 }
 }
