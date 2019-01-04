@@ -6,6 +6,6 @@ System.out.println("Hello Eorld...All...!!");
 }
            public static void main (String [] args)
        {
-         
+         HelloWirld.myMethod()
        }
 }
